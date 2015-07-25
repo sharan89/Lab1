@@ -8,7 +8,7 @@
 
 
 <form>
-    Username: <input type="text" name="username" id="username"></input><br>
+    Username: <input type="text" name="username" id="un"></input><br>
     Password: <input type="password" name="pw" id="pw"> </input><br>
 
     <button onclick="getValuesFromData();">Test</button>
